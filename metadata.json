@@ -1,0 +1,6 @@
+{
+  "name": "Patabahar — Bangladeshi Desk Plants & Greenery",
+  "description": "Premium online desk plant shop in Bangladesh. Handpicked mini succulents, snake plants, money plants, cacti & ceramic desk planters with express delivery in Dhaka and nationwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
